@@ -34,7 +34,7 @@ ORDER BY COUNT(u.title) DESC;
 
 SELECT * FROM deliverable_one_retiring;
 
---mentorship eligibilty (deliverable 2)
+--mentorship eligibilty 
 SELECT e.emp_no,
     e.first_name,
     e.last_name,
