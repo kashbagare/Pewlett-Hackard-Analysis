@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of Analysis
-The purpose of analysis was to use our newly aquired SQL skills to determine the number of retiring employees AND see which employees can help with the mentorship program. In this module challenge, we created tables, imported data, grouped and ordered the data based on what we were looking for and exported the data as CSV files. 
+Use of SQL to determine the number of retiring employees AND see which employees can help with the mentorship program
 
 ## Results 
 - The first step of the analysis was creating a table with all the current employees born between January 1, 1952 and December 31, 1955. The individuals born in this time range are those who are retirement-age employees. Some of the employees show up more than once because of promotions so we needed to use the DISTINCT ON() function. 
